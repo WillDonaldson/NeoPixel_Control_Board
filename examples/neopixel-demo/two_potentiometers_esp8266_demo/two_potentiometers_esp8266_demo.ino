@@ -10,8 +10,8 @@
  */
 
 #define analogPin A0    
-#define pot1_enable D1  
-#define pot2_enable D2
+#define pot1_enable D0  
+#define pot2_enable D8
 
 int pot1_value = 0; 
 int pot2_value = 0; 
