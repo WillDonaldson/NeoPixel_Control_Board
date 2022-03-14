@@ -5,15 +5,15 @@ NeoPixel Control Board is a modular, customizable PCB breakout board for control
 
 This project serves as a beginner friendly resource in developing custom PCBs. Below are the links to a 3 part tutorial series on how this board was created in Fusion 360 Electrical.
 
-* Part 1) Creating an electronic schematic: (link not available - video to be published late December 2021)
-* Part 2) Designing a PCB layout: (link not available - video to be published late December 2021)
-* Part 3) Rendering a 3D CAD model of the PCB: (link not available - video to be published late December 2021)
+* Part 1) Creating an Electronic Component Library in Fusion 360: https://youtu.be/NITJZfhjppI
+* Part 2) Drawing an Electrical Schematic for a PCB in Fusion 360: https://youtu.be/flY2tQeuNUk
+* Part 3) Designing a Board Layout for a PCB in Fusion 360: https://youtu.be/5nLONfdh7vw
 
 Documentation
 -------------
 
 https://neopixel-controller.willdonaldson.io/
-(under active development - check back later)
+(under development - check back later)
 
 Matrix Computer
 ---------------
